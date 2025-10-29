@@ -1,0 +1,27 @@
+{
+  "components": [
+    {
+      "label": "Nome città",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0nqyas7",
+        "columns": null
+      },
+      "id": "Field_0qwb7ga",
+      "key": "cityName",
+      "validate": {
+        "required": true
+      },
+      "properties": {}
+    }
+  ],
+  "type": "default",
+  "id": "Form_0c5anem",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.7.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.34.0"
+  },
+  "schemaVersion": 18
+}

@@ -1,0 +1,277 @@
+[2025-07-08 14:25:04] 🔁 Scheduler avviato: controllo ogni 120 minuti.
+
+[2025-07-08 15:25:10] ❌ Errore nell'esecuzione di spegni_scaduti.py: Command '['C:\\Users\\katal\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe', 'spegni_irrigatori.py']' returned non-zero exit status 1.
+
+[2025-07-08 15:35:10] ❌ Errore nell'esecuzione di spegni_scaduti.py: Command '['C:\\Users\\katal\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe', 'spegni_irrigatori.py']' returned non-zero exit status 1.
+
+[2025-07-08 15:45:10] ❌ Errore nell'esecuzione di spegni_scaduti.py: Command '['C:\\Users\\katal\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe', 'spegni_irrigatori.py']' returned non-zero exit status 1.
+
+[2025-07-08 15:55:10] ❌ Errore nell'esecuzione di spegni_scaduti.py: Command '['C:\\Users\\katal\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe', 'spegni_irrigatori.py']' returned non-zero exit status 1.
+
+[2025-07-08 15:55:25] ⏱️ Spegnimento automatico: irrigatore a Berlin acceso da 93 minuti
+[2025-07-08 15:55:25] ⏱️ Spegnimento automatico: irrigatore a Paris acceso da 93 minuti
+[2025-07-08 15:55:25] ⏱️ Spegnimento automatico: irrigatore a Madrid acceso da 93 minuti
+[2025-07-08 15:58:28] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 15:58:28] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 15:58:28] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 15:58:28] Avvio batch completato per tutte le città.
+
+[2025-07-08 15:58:28] ℹ️ L'irrigatore a Berlin risulta già attivo
+[2025-07-08 15:58:28] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 15:58:28] ℹ️ L'irrigatore a Paris risulta già attivo
+[2025-07-08 15:58:28] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 15:58:28] ℹ️ L'irrigatore a Madrid risulta già attivo
+[2025-07-08 15:58:28] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 15:58:54] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 15:58:54] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 15:58:54] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 15:58:54] Avvio batch completato per tutte le città.
+
+[2025-07-08 15:58:54] ℹ️ L'irrigatore a Berlin risulta già attivo
+[2025-07-08 15:58:54] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 15:58:54] 📨 NOTIFICA ERRORE: Operazione fallita per Paris. Gli irrigatori potrebbero NON essere stati aggiornati correttamente. Controllare manualmente.
+[2025-07-08 15:58:55] 📨 NOTIFICA ERRORE: Operazione fallita per Madrid. Gli irrigatori potrebbero NON essere stati aggiornati correttamente. Controllare manualmente.
+[2025-07-08 15:59:09] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 15:59:10] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 15:59:10] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 15:59:10] Avvio batch completato per tutte le città.
+
+[2025-07-08 15:59:10] ℹ️ L'irrigatore a Berlin risulta già attivo
+[2025-07-08 15:59:10] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 15:59:10] ℹ️ L'irrigatore a Paris risulta già attivo
+[2025-07-08 15:59:10] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 15:59:10] ℹ️ L'irrigatore a Madrid risulta già attivo
+[2025-07-08 15:59:10] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 15:59:27] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 15:59:27] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 15:59:27] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 15:59:27] Avvio batch completato per tutte le città.
+
+[2025-07-08 15:59:27] 🟢 Irrigatore a Berlin attivato con successo (ora: 2025-07-08T15:59)
+[2025-07-08 15:59:27] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 15:59:27] 🟢 Irrigatore a Paris attivato con successo (ora: 2025-07-08T15:59)
+[2025-07-08 15:59:27] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 15:59:27] 🟢 Irrigatore a Madrid attivato con successo (ora: 2025-07-08T15:59)
+[2025-07-08 15:59:27] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 16:01:55] 🔁 Scheduler avviato: controllo ogni 30 minuti.
+
+[2025-07-08 16:22:08] ❌ Errore nell'esecuzione di spegni_scaduti.py: Command '['C:\\Users\\katal\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe', 'spegni_irrigatori.py']' returned non-zero exit status 1.
+
+[2025-07-08 22:10:12] 🔁 Scheduler avviato: controllo ogni 30 minuti.
+
+[2025-07-08 22:15:12] ⏳ Avvio automatico del launcher.py per il controllo periodico degli irrigatori.
+[2025-07-08 22:15:12] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:15:13] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:15:13] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:15:13] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:15:13] ✅ Completato ciclo di avvio periodico.
+[2025-07-08 22:15:14] 🟢 Irrigatore a Berlin attivato con successo (ora: 2025-07-08T22:15)
+[2025-07-08 22:15:14] 🟢 Irrigatore a Paris attivato con successo (ora: 2025-07-08T22:15)
+[2025-07-08 22:15:14] 🟢 Irrigatore a Madrid attivato con successo (ora: 2025-07-08T22:15)
+[2025-07-08 22:15:14] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 22:15:14] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 22:15:14] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 22:20:13] ⏳ Avvio automatico del launcher.py per il controllo periodico degli irrigatori.
+[2025-07-08 22:20:14] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:20:14] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:20:14] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:20:14] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:20:14] ✅ Completato ciclo di avvio periodico.
+[2025-07-08 22:20:14] 📨 NOTIFICA ERRORE: Operazione fallita per Berlin. Gli irrigatori potrebbero NON essere stati aggiornati correttamente. Controllare manualmente.
+[2025-07-08 22:20:14] ℹ️ L'irrigatore a Paris risulta già attivo
+[2025-07-08 22:20:14] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 22:20:14] ℹ️ L'irrigatore a Madrid risulta già attivo
+[2025-07-08 22:20:14] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 22:20:50] ❌ Errore nell'esecuzione di spegni_scaduti.py: Command '['C:\\Users\\katal\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe', 'spegni_irrigatori.py']' returned non-zero exit status 1.
+
+[2025-07-08 22:23:51] ❌ Errore nell'esecuzione di spegni_scaduti.py: Command '['C:\\Users\\katal\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe', 'spegni_irrigatori.py']' returned non-zero exit status 1.
+
+[2025-07-08 22:25:14] ⏳ Avvio automatico del launcher.py per il controllo periodico degli irrigatori.
+[2025-07-08 22:25:14] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:25:14] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:25:14] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:25:14] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:25:14] ✅ Completato ciclo di avvio periodico.
+[2025-07-08 22:25:15] ℹ️ L'irrigatore a Berlin risulta già attivo
+[2025-07-08 22:25:15] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 22:25:15] ℹ️ L'irrigatore a Paris risulta già attivo
+[2025-07-08 22:25:15] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 22:25:15] ℹ️ L'irrigatore a Madrid risulta già attivo
+[2025-07-08 22:25:15] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 22:26:51] ❌ Errore nell'esecuzione di spegni_scaduti.py: Command '['C:\\Users\\katal\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe', 'spegni_irrigatori.py']' returned non-zero exit status 1.
+
+[2025-07-08 22:28:27] ⏱️ Spegnimento automatico: irrigatore a Berlin acceso da 13 minuti
+[2025-07-08 22:28:27] ⏱️ Spegnimento automatico: irrigatore a Paris acceso da 13 minuti
+[2025-07-08 22:28:27] ⏱️ Spegnimento automatico: irrigatore a Madrid acceso da 13 minuti
+[2025-07-08 22:30:15] ⏳ Avvio automatico del launcher.py per il controllo periodico degli irrigatori.
+[2025-07-08 22:30:15] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:30:15] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:30:15] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:30:15] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:30:15] ✅ Completato ciclo di avvio periodico.
+[2025-07-08 22:30:15] ℹ️ L'irrigatore a Berlin risulta già attivo
+[2025-07-08 22:30:15] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 22:30:15] 📨 NOTIFICA ERRORE: Operazione fallita per Paris. Gli irrigatori potrebbero NON essere stati aggiornati correttamente. Controllare manualmente.
+[2025-07-08 22:30:15] ℹ️ L'irrigatore a Madrid risulta già attivo
+[2025-07-08 22:30:15] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 22:35:15] ⏳ Avvio automatico del launcher.py per il controllo periodico degli irrigatori.
+[2025-07-08 22:35:15] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:35:15] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:35:15] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:35:15] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:35:15] ✅ Completato ciclo di avvio periodico.
+[2025-07-08 22:35:15] ℹ️ L'irrigatore a Berlin risulta già attivo
+[2025-07-08 22:35:16] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 22:35:16] ℹ️ L'irrigatore a Paris risulta già attivo
+[2025-07-08 22:35:16] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 22:35:16] 📨 NOTIFICA ERRORE: Operazione fallita per Madrid. Gli irrigatori potrebbero NON essere stati aggiornati correttamente. Controllare manualmente.
+[2025-07-08 22:38:03] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:38:03] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:38:03] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:38:03] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:38:03] 🟢 Irrigatore a Berlin attivato con successo (ora: 2025-07-08T22:38)
+[2025-07-08 22:38:03] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 22:38:04] 🟢 Irrigatore a Paris attivato con successo (ora: 2025-07-08T22:38)
+[2025-07-08 22:38:04] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 22:38:04] 🟢 Irrigatore a Madrid attivato con successo (ora: 2025-07-08T22:38)
+[2025-07-08 22:38:04] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 22:38:24] 🔁 Scheduler avviato: controllo ogni 30 minuti.
+
+[2025-07-08 22:41:57] ❌ Errore nell'esecuzione di spegni_irrigatori.py:
+Exit code: 1
+Stderr: Traceback (most recent call last):
+  File "C:\Users\katal\Desktop\Università\TESI\Processi\spegni_irrigatori.py", line 38, in spegni_irrigatori_troppo_vecchi
+    print(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\katal\Desktop\Università\TESI\Processi\spegni_irrigatori.py", line 49, in <module>
+    spegni_irrigatori_troppo_vecchi()
+  File "C:\Users\katal\Desktop\Università\TESI\Processi\spegni_irrigatori.py", line 42, in spegni_irrigatori_troppo_vecchi
+    print(f"\u26a0\ufe0f Errore parsing data per {city}: {e}")
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\katal\Desktop\Università\TESI\Processi\spegni_irrigatori.py", line 38, in spegni_irrigatori_troppo_vecchi
+    print(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\katal\Desktop\Università\TESI\Processi\spegni_irrigatori.py", line 49, in <module>
+    spegni_irrigatori_troppo_vecchi()
+  File "C:\Users\katal\Desktop\Università\TESI\Processi\spegni_irrigatori.py", line 42, in spegni_irrigatori_troppo_vecchi
+    print(f"\u26a0\ufe0f Errore parsing data per {city}: {e}")
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\katal\Desktop\Università\TESI\Processi\spegni_irrigatori.py", line 54, in <module>
+    print(f"\u203c\ufe0f Errore esecuzione script: {e}")
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+
+[2025-07-08 22:43:24] ⏳ Avvio automatico del launcher.py per il controllo periodico degli irrigatori.
+[2025-07-08 22:43:24] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:43:24] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:43:24] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:43:24] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:43:24] ✅ Completato ciclo di avvio periodico.
+[2025-07-08 22:43:25] ℹ️ L'irrigatore a Berlin risulta già attivo
+[2025-07-08 22:43:25] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 22:43:25] ℹ️ L'irrigatore a Paris risulta già attivo
+[2025-07-08 22:43:25] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 22:43:25] ℹ️ L'irrigatore a Madrid risulta già attivo
+[2025-07-08 22:43:25] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 22:46:27] ⏱️ Spegnimento automatico: irrigatore a Berlin acceso da 8 minuti
+[2025-07-08 22:46:27] ⏱️ Spegnimento automatico: irrigatore a Paris acceso da 8 minuti
+[2025-07-08 22:46:27] ⏱️ Spegnimento automatico: irrigatore a Madrid acceso da 8 minuti
+[2025-07-08 22:47:04] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:47:04] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:47:04] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:47:04] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:47:04] 🟢 Irrigatore a Berlin attivato con successo (ora: 2025-07-08T22:47)
+[2025-07-08 22:47:04] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 22:47:04] 🟢 Irrigatore a Paris attivato con successo (ora: 2025-07-08T22:47)
+[2025-07-08 22:47:04] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 22:47:04] 🟢 Irrigatore a Madrid attivato con successo (ora: 2025-07-08T22:47)
+[2025-07-08 22:47:04] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 22:47:06] 🔁 Scheduler avviato: controllo ogni 30 minuti.
+
+[2025-07-08 22:52:06] ⏳ Avvio automatico del launcher.py per il controllo periodico degli irrigatori.
+[2025-07-08 22:52:07] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:52:07] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:52:07] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:52:07] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:52:07] ✅ Completato ciclo di avvio periodico.
+[2025-07-08 22:52:07] ℹ️ L'irrigatore a Berlin risulta già attivo
+[2025-07-08 22:52:07] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 22:52:07] ℹ️ L'irrigatore a Paris risulta già attivo
+[2025-07-08 22:52:07] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 22:52:07] ℹ️ L'irrigatore a Madrid risulta già attivo
+[2025-07-08 22:52:07] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente
+[2025-07-08 22:52:56] ⏱️ Spegnimento automatico: irrigatore a Berlin acceso da 5 minuti
+[2025-07-08 22:52:56] ⏱️ Spegnimento automatico: irrigatore a Paris acceso da 5 minuti
+[2025-07-08 22:52:56] ⏱️ Spegnimento automatico: irrigatore a Madrid acceso da 5 minuti
+[2025-07-08 22:52:56] ⚙️ Spegnimento automatico eseguito:
+[SPEGNIMENTO] Berlin acceso da 5 minuti
+[SPEGNIMENTO] Paris acceso da 5 minuti
+[SPEGNIMENTO] Madrid acceso da 5 minuti
+
+[2025-07-08 22:57:07] ⏳ Avvio automatico del launcher.py per il controllo periodico degli irrigatori.
+[2025-07-08 22:57:07] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 22:57:07] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 22:57:07] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 22:57:07] Avvio batch completato per tutte le città.
+
+[2025-07-08 22:57:07] ✅ Completato ciclo di avvio periodico.
+[2025-07-08 22:57:07] 🟢 Irrigatore a Berlin attivato con successo (ora: 2025-07-08T22:57)
+[2025-07-08 22:57:07] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 22:57:07] 🟢 Irrigatore a Paris attivato con successo (ora: 2025-07-08T22:57)
+[2025-07-08 22:57:07] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 22:57:07] 📨 NOTIFICA ERRORE: Operazione fallita per Madrid. Gli irrigatori potrebbero NON essere stati aggiornati correttamente. Controllare manualmente.
+[2025-07-08 23:01:56] ⏱️ Spegnimento automatico: irrigatore a Berlin acceso da 4 minuti
+[2025-07-08 23:01:56] ⏱️ Spegnimento automatico: irrigatore a Paris acceso da 4 minuti
+[2025-07-08 23:01:56] ⚙️ Spegnimento automatico eseguito:
+[SPEGNIMENTO] Berlin acceso da 4 minuti
+[SPEGNIMENTO] Paris acceso da 4 minuti
+
+[2025-07-08 23:02:07] ⏳ Avvio automatico del launcher.py per il controllo periodico degli irrigatori.
+[2025-07-08 23:02:07] Avviata nuova istanza del processo per la città: Berlin
+[2025-07-08 23:02:07] Avviata nuova istanza del processo per la città: Paris
+[2025-07-08 23:02:07] Avviata nuova istanza del processo per la città: Madrid
+[2025-07-08 23:02:07] Avvio batch completato per tutte le città.
+
+[2025-07-08 23:02:07] ✅ Completato ciclo di avvio periodico.
+[2025-07-08 23:02:08] 🟢 Irrigatore a Berlin attivato con successo (ora: 2025-07-08T23:02)
+[2025-07-08 23:02:08] 📨 NOTIFICA: Irrigatori a Berlin ACCESI correttamente
+[2025-07-08 23:02:08] 🟢 Irrigatore a Paris attivato con successo (ora: 2025-07-08T23:02)
+[2025-07-08 23:02:08] 📨 NOTIFICA: Irrigatori a Paris ACCESI correttamente
+[2025-07-08 23:02:08] 🟢 Irrigatore a Madrid attivato con successo (ora: 2025-07-08T23:02)
+[2025-07-08 23:02:08] 📨 NOTIFICA: Irrigatori a Madrid ACCESI correttamente

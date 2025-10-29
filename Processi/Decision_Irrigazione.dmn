@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="https://www.omg.org/spec/DMN/20191111/MODEL/" xmlns:dmndi="https://www.omg.org/spec/DMN/20191111/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:modeler="http://camunda.org/schema/modeler/1.0" id="Definitions_1t1cwsf" name="DRD" namespace="http://camunda.org/schema/1.0/dmn" exporter="Camunda Modeler" exporterVersion="5.34.0" modeler:executionPlatform="Camunda Cloud" modeler:executionPlatformVersion="8.7.0">
+  <decision id="Decision_Irrigazione" name="Decisione_Irrigazione">
+    <decisionTable id="DecisionTable_1b4ewfs" hitPolicy="FIRST">
+      <input id="Input_1" label="weatherMain">
+        <inputExpression id="InputExpression_1" typeRef="string">
+          <text>weatherMain</text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_17aibf3" label="temperature">
+        <inputExpression id="LiteralExpression_1szo09z" typeRef="number">
+          <text>temperature</text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_0w8khs3" label="humidity">
+        <inputExpression id="LiteralExpression_0urerja" typeRef="number">
+          <text>humidity</text>
+        </inputExpression>
+      </input>
+      <output id="Output_1" label="irrigazione" typeRef="string" />
+      <rule id="DecisionRule_03vu4zl">
+        <description>Non irrigare se piove</description>
+        <inputEntry id="UnaryTests_0ji4x1j">
+          <text>"Rain"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0mabf03">
+          <text>-</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_13u2etv">
+          <text>-</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0wsoa0z">
+          <text>"no"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0jgh5xx">
+        <description>Temperatura moderata, poca umidità</description>
+        <inputEntry id="UnaryTests_1pb0j47">
+          <text>"Clear"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_00wp312">
+          <text>&lt;=25</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0vynb0y">
+          <text>&lt;=50</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0ym4rcu">
+          <text>"yes"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1h3lb1z">
+        <description>Caldo ma ancora gestibile</description>
+        <inputEntry id="UnaryTests_0vaown4">
+          <text>"Clear"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1cg7pyk">
+          <text>&gt;25</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1uodybn">
+          <text>&lt;=70</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0y57o6d">
+          <text>"yes"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0jrqpa5">
+        <description>Umidità troppo alta</description>
+        <inputEntry id="UnaryTests_19l8bsf">
+          <text>"Clear"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0otyqku">
+          <text>-</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0f62zrl">
+          <text>&gt;90</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_19tciqe">
+          <text>"no"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1g1d1d7">
+        <description> Cielo coperto, fresco e secco</description>
+        <inputEntry id="UnaryTests_0cyiquf">
+          <text>"Clouds"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_041m64v">
+          <text>&lt;=22</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0ncimf0">
+          <text>&lt;=40</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0b8ttvf">
+          <text>"yes"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_11nh531">
+        <description>Default (caso di fallback)</description>
+        <inputEntry id="UnaryTests_078004o">
+          <text>-</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1vxxasd">
+          <text>-</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0oruwv6">
+          <text>-</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0jtit64">
+          <text>"yes"</text>
+        </outputEntry>
+      </rule>
+    </decisionTable>
+  </decision>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram>
+      <dmndi:DMNShape dmnElementRef="Decision_Irrigazione">
+        <dc:Bounds height="80" width="180" x="160" y="80" />
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</definitions>

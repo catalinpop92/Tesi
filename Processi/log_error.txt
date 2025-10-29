@@ -1,0 +1,12 @@
+[2025-07-08 15:58:54] ❌ Errore tecnico durante l'attivazione dell'irrigatore a Paris
+[2025-07-08 15:58:54] 📛 GESTIONE ERRORE: Si è verificato un errore durante l'elaborazione per Paris: errore sconosciuto
+[2025-07-08 15:58:55] ❌ Errore tecnico durante l'attivazione dell'irrigatore a Madrid
+[2025-07-08 15:58:55] 📛 GESTIONE ERRORE: Si è verificato un errore durante l'elaborazione per Madrid: errore sconosciuto
+[2025-07-08 22:20:14] ❌ Errore tecnico durante l'attivazione dell'irrigatore a Berlin
+[2025-07-08 22:20:14] 📛 GESTIONE ERRORE: Si è verificato un errore durante l'elaborazione per Berlin: errore sconosciuto
+[2025-07-08 22:30:15] ❌ Errore tecnico durante l'attivazione dell'irrigatore a Paris
+[2025-07-08 22:30:15] 📛 GESTIONE ERRORE: Si è verificato un errore durante l'elaborazione per Paris: errore sconosciuto
+[2025-07-08 22:35:16] ❌ Errore tecnico durante l'attivazione dell'irrigatore a Madrid
+[2025-07-08 22:35:16] 📛 GESTIONE ERRORE: Si è verificato un errore durante l'elaborazione per Madrid: errore sconosciuto
+[2025-07-08 22:57:07] ❌ Errore tecnico durante l'attivazione dell'irrigatore a Madrid
+[2025-07-08 22:57:07] 📛 GESTIONE ERRORE: Si è verificato un errore durante l'elaborazione per Madrid: errore sconosciuto
