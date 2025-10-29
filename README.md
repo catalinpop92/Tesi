@@ -1,26 +1,22 @@
-Repository contenente il materiale relativo alla tesi di laurea "Sperimentazione di motori BPM e interoperabilità con architetture a microservizi", svolta presso l’Università di Roma “Tor Vergata”.
+Repository containing the material related to the bachelor’s thesis *"Experimentation with BPM engines and interoperability with microservices architectures"*, completed at the University of Rome “Tor Vergata”.
 
-Il progetto esplora l’integrazione tra motori BPMN e architetture a microservizi, con particolare attenzione alla piattaforma Camunda 8.
-L’obiettivo è dimostrare come l’approccio model-driven possa essere applicato alla realizzazione di soluzioni automatizzate, scalabili e interoperabili.
+The project explores the integration between BPMN engines and microservices architectures, with a particular focus on the Camunda 8 platform.
+The goal is to demonstrate how a model-driven approach can be applied to the development of automated, scalable, and interoperable solutions.
 
-Contenuti principali del repository:
+**Main contents of the repository:**
 
-🧩 Processi/ → Workers, modelli BPMN e DMN sviluppati nel caso di studio
+🧩 `Processi/` → Workers, BPMN and DMN models developed in the case study
 
-📊 Presentazione.pptx → slide di presentazione della tesi
+📊 `Presentazione.pptx` → Thesis presentation slides
 
-📄 Tesi.pdf → documento completo della tesi di laurea
+📄 `Tesi.pdf` → Complete bachelor’s thesis document
 
-Tecnologie principali:
+**Key technologies:**
 
-Camunda Platform 8 (Zeebe Engine)
+* Camunda Platform 8 (Zeebe Engine)
+* BPMN 2.0 and DMN
+* Python
+* Docker / REST API
+* Microservices architecture
 
-BPMN 2.0 e DMN
-
-Python
-
-Docker / REST API
-
-Architettura a microservizi
-
-Questo repository accompagna il lavoro sperimentale di tesi e fornisce un esempio pratico di automazione e orchestrazione di processi aziendali tramite strumenti open source e tecnologie cloud-native.
+This repository accompanies the experimental work of the thesis and provides a practical example of business process automation and orchestration using open-source tools and cloud-native technologies.
